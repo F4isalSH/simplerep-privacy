@@ -2,6 +2,9 @@ name: Deploy
 on:
   push:
     branches: [master]
+concurrency:
+  group: pages
+  cancel-in-progress: true
 jobs:
   deploy:
     runs-on: ubuntu-latest
