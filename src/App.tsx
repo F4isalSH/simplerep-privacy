@@ -1,9 +1,11 @@
 import { useEffect, useState } from 'react';
 import Terms from './Terms';
+import Support from './Support';
 
 function getPage() {
   const hash = window.location.hash.replace('#/', '').replace('#', '');
   if (hash === 'terms') return 'terms';
+  if (hash === 'support') return 'support';
   return 'privacy';
 }
 
@@ -17,6 +19,7 @@ function App() {
   }, []);
 
   if (page === 'terms') return <Terms />;
+  if (page === 'support') return <Support />;
   return <Privacy />;
 }
 
