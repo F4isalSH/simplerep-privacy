@@ -9,7 +9,7 @@ function Terms() {
       <p>
         These Terms of Use ("Terms") govern your use of the SimpleRep mobile
         application ("SimpleRep" or "the Service"). The Service is developed and
-        operated by Faisal ("the Developer", "we", "us", or "our"). By
+        operated by Faisal Alshawan ("the Developer", "we", "us", or "our"). By
         downloading, installing, or using SimpleRep, you agree to be bound by
         these Terms. If you do not agree, do not use the Service.
       </p>
@@ -217,7 +217,7 @@ function Terms() {
       <h2>18. Contact</h2>
       <p>
         If you have any questions about these Terms, contact us at{' '}
-        <strong>contact@simplerep.app</strong>.
+        <strong>simplerep@faisaldev.co</strong>.
       </p>
     </div>
   );

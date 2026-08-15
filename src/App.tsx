@@ -29,7 +29,7 @@ function Privacy() {
 
       <h2>1. Introduction</h2>
       <p>
-        SimpleRep ("the App") is developed and operated by Faisal ("the
+        SimpleRep ("the App") is developed and operated by Faisal Alshawan ("the
         Developer", "we", "us", or "our"). This Privacy Policy explains how we
         handle information when you use the App. By downloading, installing, or
         using SimpleRep, you acknowledge that you have read and understood this
@@ -129,7 +129,7 @@ function Privacy() {
       <h2>11. Contact</h2>
       <p>
         If you have questions about this Privacy Policy, contact us at{' '}
-        <strong>contact@simplerep.app</strong>.
+        <strong>simplerep@faisaldev.co</strong>.
       </p>
     </div>
   );
