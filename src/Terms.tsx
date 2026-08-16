@@ -18,9 +18,8 @@ function Terms() {
       <p>
         SimpleRep is a fitness tracking application that allows you to log
         exercises, create workout routines, track strength progression, set
-        fitness goals, and view workout history. All data you create is stored
-        locally on your device. SimpleRep does not collect, transmit, or store
-        your data on any external server.
+        fitness goals, and view workout history. SimpleRep does not collect,
+        transmit, or store your data on any external server.
       </p>
 
       <h2>3. Age Requirements and Eligibility</h2>
@@ -68,10 +67,10 @@ function Terms() {
       <h2>7. User Data</h2>
       <p>
         All workout data, exercise logs, goals, routines, and preferences you
-        create in SimpleRep are stored locally on your device. We do not have
-        access to, collect, or store your data on any server. You are solely
-        responsible for maintaining backups of your data. If you delete the
-        application, your data will be permanently lost.
+        create in SimpleRep stay on your device. We do not have access to,
+        collect, or store your data on any server. You are solely responsible
+        for maintaining backups of your data. If you delete the application,
+        your data will be permanently lost.
       </p>
 
       <h2>8. Health and Fitness Disclaimer</h2>

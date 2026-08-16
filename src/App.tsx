@@ -42,10 +42,9 @@ function Privacy() {
       <h2>2. Data Stored on Your Device</h2>
       <p>
         All data you create in SimpleRep, including exercise logs, workout
-        history, routines, goals, and preferences, is stored locally on your
-        device and is never sent to us or any server. We do not have access to
-        your workout data. If you delete the App, this data is permanently
-        deleted with it.
+        history, routines, goals, and preferences, stays on your device and is
+        never sent to us or any server. We do not have access to your workout
+        data. If you delete the App, this data is permanently deleted with it.
       </p>
 
       <h2>3. Data Processed by Third Parties</h2>
@@ -94,8 +93,8 @@ function Privacy() {
 
       <h2>6. Data Security</h2>
       <p>
-        All your workout data is stored locally on your device and is never
-        transmitted to any server. We do not have access to your data.
+        Your workout data stays on your device and is never transmitted to
+        any server. We do not have access to your data.
       </p>
 
       <h2>7. Your Rights</h2>
@@ -104,8 +103,8 @@ function Privacy() {
         Arabia and other applicable data protection laws, you have the right to
         know what personal data is being processed, access your personal data,
         request correction or deletion of your data, and withdraw consent. Since
-        SimpleRep stores all data locally on your device and we do not collect
-        or have access to your personal data, you have full control over your
+        SimpleRep does not collect or have access to your personal data, you
+        have full control over your
         data at all times. You can view, modify, or delete your data directly
         within the App.
       </p>
