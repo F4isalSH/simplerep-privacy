@@ -49,13 +49,6 @@ function Terms() {
         Store. By purchasing a subscription, you agree to the pricing and
         payment terms presented to you at the time of purchase.
       </p>
-      <p>
-        Subscriptions automatically renew unless cancelled at least 24 hours
-        before the end of the current billing period. Your Apple ID account will
-        be charged for renewal within 24 hours prior to the end of the current
-        period. You can manage and cancel your subscriptions by going to your
-        account settings in the App Store after purchase.
-      </p>
 
       <h2>6. Refunds</h2>
       <p>
@@ -106,13 +99,6 @@ function Terms() {
         purchase, RevenueCat processes purchase-related data (such as transaction
         history and basic device information) to validate your purchase and
         manage your subscription.
-      </p>
-      <p>
-        The Service may contain links to third-party websites or services that
-        are not owned or controlled by the Developer. We have no control over,
-        and assume no responsibility for, the content, privacy policies, or
-        practices of any third-party services. For more information, see our{' '}
-        <a href="#/privacy">Privacy Policy</a>.
       </p>
 
       <h2>11. Limitation of Liability</h2>
