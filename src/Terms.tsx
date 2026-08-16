@@ -32,36 +32,7 @@ function Terms() {
         and that you will use the Service in compliance with these Terms.
       </p>
 
-      <h2>4. Relationship with Apple</h2>
-      <p>
-        You acknowledge that these Terms are between you and the Developer only,
-        and not with Apple Inc. ("Apple"). The Developer, not Apple, is solely
-        responsible for the Service and its content. Apple has no obligation
-        whatsoever to furnish any maintenance or support services with respect
-        to the Service. In the event of any failure of the Service to conform to
-        any applicable warranty, you may notify Apple, and Apple will refund the
-        purchase price (if any) for the Service. To the maximum extent permitted
-        by applicable law, Apple has no other warranty obligation with respect
-        to the Service.
-      </p>
-      <p>
-        Apple is not responsible for addressing any claims by you or any third
-        party relating to the Service or your possession and use of the Service,
-        including but not limited to product liability claims, any claim that the
-        Service fails to conform to any applicable legal or regulatory
-        requirement, and claims arising under consumer protection or similar
-        legislation. Apple is not responsible for the investigation, defense,
-        settlement, or discharge of any third-party intellectual property
-        infringement claim.
-      </p>
-      <p>
-        Apple and its subsidiaries are third-party beneficiaries of these Terms.
-        Upon your acceptance of these Terms, Apple will have the right (and will
-        be deemed to have accepted the right) to enforce these Terms against you
-        as a third-party beneficiary thereof.
-      </p>
-
-      <h2>5. License</h2>
+      <h2>4. License</h2>
       <p>
         Subject to your compliance with these Terms, the Developer grants you a
         limited, non-exclusive, non-transferable, revocable license to download,
@@ -72,7 +43,7 @@ function Terms() {
         any part thereof.
       </p>
 
-      <h2>6. Premium Features and Subscriptions</h2>
+      <h2>5. Premium Features and Subscriptions</h2>
       <p>
         SimpleRep requires an active subscription to access the Service.
         Subscriptions are auto-renewable and are managed through the Apple App
@@ -87,14 +58,14 @@ function Terms() {
         account settings in the App Store after purchase.
       </p>
 
-      <h2>7. Refunds</h2>
+      <h2>6. Refunds</h2>
       <p>
         All payments are processed by Apple through the App Store. Refund
         requests are handled by Apple in accordance with their refund policies.
         The Developer does not process payments or refunds directly.
       </p>
 
-      <h2>8. User Data</h2>
+      <h2>7. User Data</h2>
       <p>
         All workout data, exercise logs, goals, routines, and preferences you
         create in SimpleRep are stored locally on your device. We do not have
@@ -103,7 +74,7 @@ function Terms() {
         application, your data will be permanently lost.
       </p>
 
-      <h2>9. Health and Fitness Disclaimer</h2>
+      <h2>8. Health and Fitness Disclaimer</h2>
       <p>
         SimpleRep is a fitness tracking tool only. It is <strong>NOT</strong> a
         substitute for professional medical, nutritional, or fitness advice. The
@@ -118,7 +89,7 @@ function Terms() {
         provided within it.
       </p>
 
-      <h2>10. Intellectual Property</h2>
+      <h2>9. Intellectual Property</h2>
       <p>
         All trademarks, copyrights, and other intellectual property rights
         relating to SimpleRep remain the exclusive property of the Developer.
@@ -128,7 +99,7 @@ function Terms() {
         of the Service is strictly prohibited.
       </p>
 
-      <h2>11. Third-Party Services</h2>
+      <h2>10. Third-Party Services</h2>
       <p>
         The Service uses{' '}
         <a href="https://www.revenuecat.com" target="_blank" rel="noreferrer">RevenueCat</a>{' '}
@@ -145,7 +116,7 @@ function Terms() {
         <a href="#/privacy">Privacy Policy</a>.
       </p>
 
-      <h2>12. Limitation of Liability</h2>
+      <h2>11. Limitation of Liability</h2>
       <p>
         The Service is provided "AS IS" and "AS AVAILABLE", without warranty of
         any kind, express or implied. The Developer expressly disclaims all
@@ -171,7 +142,7 @@ function Terms() {
         limited to the greatest extent permitted by law.
       </p>
 
-      <h2>13. Indemnification</h2>
+      <h2>12. Indemnification</h2>
       <p>
         You agree to indemnify, defend, and hold harmless the Developer from
         and against any claims, liabilities, damages, losses, and expenses
@@ -180,7 +151,7 @@ function Terms() {
         violation of any rights of a third party.
       </p>
 
-      <h2>14. Termination</h2>
+      <h2>13. Termination</h2>
       <p>
         We may terminate or suspend your access to the Service immediately,
         without prior notice or liability, for any reason, including if you
@@ -189,7 +160,7 @@ function Terms() {
         time without prior notice.
       </p>
 
-      <h2>15. Governing Law and Jurisdiction</h2>
+      <h2>14. Governing Law and Jurisdiction</h2>
       <p>
         These Terms shall be governed by and construed in accordance with the
         laws of the Kingdom of Saudi Arabia. Any disputes arising under these
@@ -198,7 +169,7 @@ function Terms() {
         attempt to resolve the dispute informally by contacting the Developer.
       </p>
 
-      <h2>16. Severability</h2>
+      <h2>15. Severability</h2>
       <p>
         If any provision of these Terms is held to be unenforceable or invalid,
         such provision will be modified to the minimum extent necessary to make
@@ -206,7 +177,7 @@ function Terms() {
         and effect.
       </p>
 
-      <h2>17. Changes to These Terms</h2>
+      <h2>16. Changes to These Terms</h2>
       <p>
         We reserve the right to modify or replace these Terms at any time. If a
         revision is material, we will make reasonable efforts to provide notice
@@ -214,7 +185,7 @@ function Terms() {
         revisions become effective constitutes acceptance of the revised Terms.
       </p>
 
-      <h2>18. Contact</h2>
+      <h2>17. Contact</h2>
       <p>
         If you have any questions about these Terms, contact us at{' '}
         <strong>simplerep@faisaldev.co</strong>.

@@ -86,7 +86,7 @@ function Privacy() {
       <h2>5. What We Do Not Collect</h2>
       <p>
         We do not collect your name, email address, location, health data,
-        photos, advertising identifiers, analytics, or any personal information.
+        photos, advertising identifiers, or any personal information.
         The App does not use HealthKit, does not track you across apps or
         websites, and does not display ads. We do not sell your personal
         information to anyone.
